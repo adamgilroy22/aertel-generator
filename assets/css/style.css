@@ -1,8 +1,25 @@
 body {
     background-color: #000000;
+    color: #ffffff;
 }
 
 #aertel {
     max-width: 80%;
     margin: auto;
+}
+
+#green {
+    color: #00FF28;
+}
+
+#red {
+    color: #EB0913;
+}
+
+#yellow {
+    color: #F3FA2E;
+}
+
+#teal {
+    color: #0CF8F5;
 }
