@@ -20,7 +20,15 @@
 }
 
 ul {
+    padding: 0;
+    list-style-position: inside;
     list-style-type: none;
+    letter-spacing: normal;
+}
+
+#controls {
+    text-align: center;
+    width: 100%;
 }
 
 #green {
