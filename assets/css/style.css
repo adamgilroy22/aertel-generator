@@ -47,6 +47,10 @@ ul {
     color: #0CF8F5;
 }
 
+#controls {
+    padding: 5px;
+}
+
 footer {
     margin: auto;
     text-align: center;
