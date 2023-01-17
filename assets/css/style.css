@@ -1,11 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
+h1 {
+    font-size: 4vw;
+   }
+
 #aertel {
     background-color: #000000;
     color: #ffffff;
     padding: 5px;
     letter-spacing: 2px;
-    max-width: 50%;
+    width: 50%;
     margin: auto;
     font-family: 'Press Start 2P', cursive;
 }
@@ -49,3 +53,16 @@ footer {
     text-align: center;
     padding: 5px;
 }
+
+/* Media Queries */
+@media only screen and (max-width: 1300px) {
+    #aertel {
+      width: 75%;
+    }
+  }
+
+@media only screen and (max-width: 865px) {
+   #aertel {
+    width: 100%;
+   }
+ }
