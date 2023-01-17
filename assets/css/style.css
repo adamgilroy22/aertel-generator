@@ -46,3 +46,9 @@ ul {
 #teal {
     color: #0CF8F5;
 }
+
+footer {
+    margin: auto;
+    text-align: center;
+    padding: 5px;
+}
