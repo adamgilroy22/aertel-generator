@@ -9,7 +9,7 @@ h1 {
     color: #ffffff;
     padding: 5px;
     letter-spacing: 2px;
-    width: 50%;
+    width: 650px;
     margin: 20px auto 10px;
     font-family: 'Press Start 2P', cursive;
 }
@@ -53,16 +53,3 @@ footer {
     text-align: center;
     padding: 5px;
 }
-
-/* Media Queries */
-@media only screen and (max-width: 1300px) {
-    #aertel {
-      width: 75%;
-    }
-  }
-
-@media only screen and (max-width: 865px) {
-   #aertel {
-    width: 100%;
-   }
- }
