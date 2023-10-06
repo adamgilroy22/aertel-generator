@@ -14,6 +14,15 @@ h1 {
     font-family: 'Press Start 2P', cursive;
 }
 
+#green > a {
+    text-decoration: none;
+    color: #00FF28;
+}
+
+#green > a:hover {
+    text-decoration: none;
+}
+
 .blue-bg {
     background-color: #0300fc;
     padding: 5px;
